@@ -1,2 +1,3 @@
 # Feature-line-extraction
+This repository is for our IEEE Transactions on Automation Science and Engineering (TASE) 2020 paper 'Multi-scale Feature Line Extraction from Raw Point Clouds Based on Local Surface Variation and Anisotropic Contraction'.  
 Comming soon...
