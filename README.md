@@ -12,7 +12,7 @@ We have also developed a new dataset containing diverse aircraft panels for eval
 
 ### Citation
 If you use this dataset, please consider citing our work.
-
+```
 @article{chen2024thin,
   title={Thin-walled Aircraft Panel Edge Extraction from 3D Measurement Surfaces via Feature-aware Displacement Learning},
   author={Chen, Mengqi and Zhou, Laishui and Chen, Honghua and Wang, Jun},
@@ -20,5 +20,16 @@ If you use this dataset, please consider citing our work.
   year={2024},
   publisher={IEEE}
 }
-
-
+```
+```
+@article{chen2021multiscale,
+  title={Multiscale feature line extraction from raw point clouds based on local surface variation and anisotropic contraction},
+  author={Chen, Honghua and Huang, Yaoran and Xie, Qian and Liu, Yuanpeng and Zhang, Yuan and Wei, Mingqiang and Wang, Jun},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  volume={19},
+  number={2},
+  pages={1003--1016},
+  year={2021},
+  publisher={IEEE}
+}
+```
